@@ -140,7 +140,7 @@ Load these files only when the trigger condition is met.
 |---|---|
 | voice-principles.md | Writing any message, email, or content on Todd's behalf |
 | launch-point-context.md | Needing deep context on the Interview Accelerator program, client journey, or coaching process |
-| agent-os-best-practices.md | Designing or building any new agent, skill, workflow, or workstation — before making any architectural recommendation |
+| agent-and-os-best-practices.md | Designing or building any new agent, skill, workflow, or workstation — before making any architectural recommendation |
 | MEMORY.md | Start of every session |
 
 ## Creating New Workstations
