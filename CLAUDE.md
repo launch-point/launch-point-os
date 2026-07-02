@@ -156,3 +156,20 @@ and add three items:
 - **[Workstation Name] Resources/** — empty folder
 
 After creating, add a row to the Routing Map above.
+
+## Proactive Skill Suggestions
+
+During interactive sessions only (not autonomous agent runs),
+watch for two signals:
+- A task being re-explained that has come up before.
+- A task that just produced a good result and is likely to recur.
+
+When either signal appears, ask Todd if he wants a skill built
+for it. Do not wait for him to think of it first.
+
+## OS Tier Prerequisites
+
+Before building or planning an Agent or Application for any
+function, confirm that function's Workstation already exists.
+If the Workstation is missing, flag it clearly and do not
+proceed with higher-tier planning until it is in place.
