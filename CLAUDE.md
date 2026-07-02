@@ -106,7 +106,7 @@ conflict with Cowork's skill system.
 
 | Workstation | Folder | Route here when Todd... |
 |---|---|---|
-| Revenue Ops | Workstations/Revenue Ops/ | ...is nurturing prospects via LinkedIn DM, Quo SMS, or Kit email, managing pipeline, running daily or weekly briefings, following up with leads, managing referral asks, scheduling testimonials, or checking in with alumni |
+| Revenue Ops | Revenue Ops/Workstation/ | ...is nurturing prospects via LinkedIn DM, Quo SMS, or Kit email, managing pipeline, running daily or weekly briefings, following up with leads, managing referral asks, scheduling testimonials, or checking in with alumni |
 | Client Delivery | Workstations/Client Delivery/ | ...is preparing for group calls, onboarding new clients, or managing async coaching |
 | Content & Marketing | Workstations/Content & Marketing/ | ...is repurposing content, managing ClickUp tasks, briefing the EA on LinkedIn posts, or managing the bi-weekly public workshop via Kit and Circle |
 | Admin & Ops | Workstations/Admin & Ops/ | ...is managing Gmail, Google Calendar, Calendly no-shows, or operational tasks |
